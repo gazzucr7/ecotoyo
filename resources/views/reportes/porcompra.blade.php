@@ -27,7 +27,7 @@
 </head>
 <body>   
     <div class="qr">
-        {!!DNS2D::getBarcodeHTML("ferreteria flowers", "QRCODE",2,2)!!}
+        {!!DNS2D::getBarcodeHTML("Ferreteria Ecotoyo", "QRCODE",2,2)!!}
     </div>     
     <br>
 <div class="container text-center">

@@ -4,14 +4,14 @@
 	  <div class="carousel-item active">
 		<img class="d-block w-100" src="{{ asset('image/Ferreteria_1.jpg') }}" alt="First slide">
 		<div class="carousel-caption d-none d-md-block" style="background-color: black;">
-			<h1>FERRETERIA FLOWERS</h1>
+			<h1>FERRETERIA ETOYO</h1>
 		</div>
 		</div>
 	  <div class="carousel-item">
 		<img class="d-block w-100" src="{{ asset('image/ofertas-ferreteria-online2.jpg') }}" alt="Second slide">
 		<div class="carousel-caption d-none d-md-block" style="background-color: black;">
 			<h1>VISIÓN</h1>
-			<p>Ser una empresa líder en el sector ferretero en los departamentos de Nariño y putumayo, buscando superar las expectativas de nuestros clientes, proyectándonos como una compañía competitiva que sea de gran aporte para el crecimiento económico de nuestra región.</p>
+			<p>Ser una empresa líder en el sector ferretero en el departamento de Oruro, buscando superar las expectativas de nuestros clientes, proyectándonos como una compañía competitiva que sea de gran aporte para el crecimiento económico de nuestra región.</p>
 		</div>
 	  </div>
 	  <div class="carousel-item">

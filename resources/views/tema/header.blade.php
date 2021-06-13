@@ -68,15 +68,15 @@
                     <td><i class="fa fa-home" aria-hidden="true"></i>
                     </td>
                     <td>
-                        La Rioja, Argentina.                        
-                        8 DE DICIEMBRE 439 - CO F5300EHI
+                        Oruro, Bolivia.                        
+                        Av. España #530
                     </td>                   
                     </tr>
                     <tr>                   
                     <td><i class="fa fa-phone" aria-hidden="true"></i>
                     </td>
                     <td>
-                        54 (0380) 4427845 / 4428999                        
+                        591 68357997                        
                         LUNES A VIERNES 08:00 A 12.30 HS. y 16:00 A 20: 30 HS.                        
                         SABADOS 08:00 A 13:00 HS.
                     </td>                   
@@ -85,7 +85,7 @@
                     <td><i class="fa fa-envelope-o" aria-hidden="true"></i>
                     </td>
                     <td>
-                        firmalr@arnet.com.ar                            
+                        ecotoyo@gmail.com                            
                         Enviános un mail en cualquier momento!                            
                     </td>                  
                     </tr>
